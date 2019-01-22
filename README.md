@@ -12,9 +12,23 @@ As far as is known, there is no specific name for this part.  From now on it sha
 
 ## Solution
 
-The aim of this project is to reverse-engineer the bushing such that it may be readily available to users of 3D printers, and easily installed in Rabit Ears Corkscrews where the original bushing has failed.  This project has the following goals:
+The aim of this project is to reverse-engineer the bushing such that it may be readily available to users of 3D printers, and easily installed in Rabit Ears Corkscrews where the original bushing has failed.  This project has the following specific goals:
 
 - Measure an original bushing
 - Use measurements to create a 3d model of the part
 - Render 3d model into some format suitable for sending to a 3d printer
 - Document instructions for replacement of bushing
+
+----
+
+The original broken part looks like this:
+
+<insert image here>
+
+A micrometer was used to measure this part as best as possible, extrapolating the lost fragments.
+
+[Blender](https://www.blender.org/) is used to build a 3d model
+
+## Fix-it Documentation
+
+If 3d-prints of the object model can successfully be used to fix a corkscrew, then step-by-step instructions will be given to do this.  If these instructions are of sufficient quality, then they may be submitted to a site such as [iFixit](https://www.ifixit.com/).
